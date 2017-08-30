@@ -1,6 +1,6 @@
 # github-workflow assignment
 
-Name: _______________________________________
+Name: Zach Dayton
 
 ## DUE: 31 Aug 2017
 
