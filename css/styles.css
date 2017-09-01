@@ -1,0 +1,23 @@
+body{
+    margin-top: 5em;
+    background-color: #ECECED;
+    text-align: center;
+    color: #444444;
+    border: groove;
+    border-radius: 2em;
+    width: 95%;
+    display: inline-block;
+}
+h1 {
+    color: #0A5369;
+}
+h2{
+    color: #0A5369;
+}
+html{
+    background: linear-gradient(to right, #0A5369, #26C7F2);
+}
+li{
+    text-align: left;
+}
+/* I accept and embrace the fact that I am terrible at design... I'm also not sure how much is desired here.*/
